@@ -3189,3 +3189,5 @@ if __name__ == "__main__":
         else:
             logger.error("程序执行失败")
             sys.exit(1)
+
+# workflow activation marker 2026-11-06
